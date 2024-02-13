@@ -15,7 +15,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-fernando-oña-carrasco-77b095263)
 [![Youtube](https://img.shields.io/badge/-youtube-61DAFB?logo=youtube&style=for-the-badge&color=red)](https://www.youtube.com/channel/UCrii1D62hiIvUe7bO6xJhqg)
 
-#### Technologies 🖥️ 📊
+#### Tecnologías 🔴🟡🟢
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://devdocs.io/html/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://devdocs.io/css/)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://devdocs.io/javascript/)
