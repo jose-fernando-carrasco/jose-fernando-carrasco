@@ -25,7 +25,6 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
 [![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)](https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Delphi_Language_Guide_Index)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/)
 [![Assembly](https://img.shields.io/badge/Assembly-0000FF?style=for-the-badge&logo=assembly&logoColor=white)](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 [![React](https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react)](https://reactjs.org)
@@ -33,6 +32,7 @@
 [![Flutter](https://img.shields.io/badge/-flutter-61DAFB?logo=flutter&style=for-the-badge&color=blue)](https://flutter.dev/)
 [![Angular](https://img.shields.io/badge/-angular-61DAFB?logo=angular&style=for-the-badge&color=red)](https://angular.io)
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/)
 
 [![Boootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
