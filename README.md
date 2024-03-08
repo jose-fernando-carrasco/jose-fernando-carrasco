@@ -40,6 +40,8 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 
 [![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Oracle Database PL/SQL](https://img.shields.io/badge/Oracle%20Database%20PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://docs.oracle.com/cd/E12151_01/index.html)
+
 [![Firebase](https://img.shields.io/badge/-firebase-61DAFB?logo=firebase&style=for-the-badge&color=grey)](https://firebase.google.com)
 [![mySQL](https://img.shields.io/badge/MySQL-0077B5?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/-mongodb-61DAFB?logo=mongodb&style=for-the-badge&color=white)](https://www.mongodb.com)
